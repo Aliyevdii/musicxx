@@ -1,5 +1,5 @@
 {
-    "name": "Nexus Music Bot",
+    "name": "Nexus Music Stream Bot",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
     "keywords": [
@@ -8,9 +8,9 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/Nexus_Bots",
+    "website": "https://t.me/levinachannel",
     "repository": "https://github.com/Aliyevdii/musicxx",
-    "success_url": "https://t.me/A_l_i_y_e_v_d_i,
+    "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -47,22 +47,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "iron_Blood_Gurup"
+            "value": "VeezSupportGroup"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "Nexus_Bots"
+            "value": "levinachannel"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "A_l_i_y_e_v_d_i"
+            "value": "dlwrml"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "Mehdi"
+            "value": "Levina"
         }
     },
     "addons": [],
